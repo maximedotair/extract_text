@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Extract Text Extension",
+  "version": "1.0",
+  "description": "Extracts the text content from a web page",
+  "icons": {
+    "16": "16.png",
+    "32": "32.png",
+    "48": "48.png",
+    "128": "128.png"
+  },
+  "permissions": [
+    "activeTab",
+    "contextMenus"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
