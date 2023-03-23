@@ -1,4 +1,4 @@
-# extract_textC Chrome Extension
+# Extract Text Chrome Extension
 The Extract Text Chrome Extension is a tool that extracts text from any URL or article with just one click. With the help of ChatGPT, you can then ask questions about the article and receive intelligent responses in real-time.
 
 Features
